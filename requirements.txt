@@ -1,3 +1,1 @@
-envVars:
-  - key: TELEGRAM_TOKEN
-    value: YOUR_NEW_TOKEN_HERE
+python-telegram-bot==20.3
