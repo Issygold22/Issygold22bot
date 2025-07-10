@@ -1,0 +1,3 @@
+envVars:
+  - key: TELEGRAM_TOKEN
+    value: YOUR_NEW_TOKEN_HERE
