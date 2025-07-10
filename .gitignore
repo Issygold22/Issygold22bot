@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv
+
+# Environment files
+.env
+.env.local
+
+# Secrets
+secrets.ini
+config.json
